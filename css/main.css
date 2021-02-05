@@ -1,3 +1,10 @@
+@import "css/header.css";
+@import "css/desktop.css";
+@import "css/tablet.css";
+@import "css/services.css";
+@import "/css/version.css";
+@import "css/footer.css";
+
 *{
     margin: 0;
     padding: 0;
